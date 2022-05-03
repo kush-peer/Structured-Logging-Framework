@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Logging/bin/Debug/netstandard2.0
+/Logging/obj
+/Logging/.vs/Underpayment Logging
